@@ -1,0 +1,2 @@
+>reverse_complement_loop_follow_by_TruSeq_Adapter
+TACATCTGTGGCTTCACTATAGATCGGAAGAGCACACGTCTGAACTCCAGTCAC
