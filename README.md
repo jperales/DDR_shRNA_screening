@@ -6,5 +6,6 @@ Raw sequencing reads were trimmed using Trimmomatic software (v. 0.32) with defa
 
 # References
 [ref1] Anthony M. Bolger, Marc Lohse, Bjoern Usadel, Trimmomatic: a flexible trimmer for Illumina sequence data, Bioinformatics, Volume 30, Issue 15, 1 August 2014, Pages 2114–2120
+
 [ref2] Langmead B, Salzberg S. Fast gapped-read alignment with Bowtie 2. Nature Methods. 2012, 9:357-359.
 
